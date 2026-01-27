@@ -1,3 +1,5 @@
+# git checkout 
+# git branch 
 # Phạm vi của biến 
 Phạm vi (scope) xác định nơi mà biến có thể truy cập
 JavaScript có ba loại phạm vi:
@@ -42,10 +44,7 @@ thêm vào>).
 ● Xóa ở cuối: pop()
 ● Xóa ở đầu: shift()
 ● Xóa ở vị trí bất kỳ:
-splice(<vị trí>,
-<số phần tử cần
-xóa>)
-
+splice(<vị trí>,<số phần tử cần xóa>)
 # Tìm kiếm phần tử
 ● Trả về phần tử đầu
 tiên hợp lệ - find()
